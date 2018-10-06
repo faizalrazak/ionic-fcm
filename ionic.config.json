@@ -1,0 +1,8 @@
+{
+  "name": "firbase-cloud-messaging",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "app_id": ""
+}
